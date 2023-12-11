@@ -1,8 +1,4 @@
-# kutuphane-otomasyon_1
-
-## Proje Geliştiricileri
-- furkangokoluk
-- alikus10
+# kutuphane-otomasyonu
 
 ## Proje Bağımlılıkları:
 - FirebaseDatabase.net
@@ -10,7 +6,6 @@
 - FirebaseStorage.net
 
 ## Manuel eklentiler
-
 
 Firebase bağlatı bilgilerinin tutulduğu config.xml dosyasının içeriği şu şekilde olmalıdır :
 
